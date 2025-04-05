@@ -1,23 +1,109 @@
-<h1 align="center">Hi 👋, I'm Arpita Garg</h1>
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<!-- README.md for Arpita Garg -->
 
-- 🔭 I’m currently working on **BookStore**
+<h1 align="center">🌟 Hey there, I'm Arpita Garg! 👋</h1>
+<h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate about Building Impactful Projects</h3>
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDB**
-
-- 👯 I’m looking to collaborate on **Women's Safety App**
-
-- 📫 How to reach me **arpitagarg9459@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpita-garg-035931263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpita-garg-035931263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/arpita_garg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arpita_garg/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/arpitagal1ga/?_gl=1*ni45gj*_up*mq..*_gs*mq..&gclid=cj0kcqjwhr6_bhd4arisah1ydjbkiyzqo18qmsl0rzmkaymed6e3m94qhh97w1_qksccpsy8pb_i34aaaidxealw_wcb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/arpitagal1ga/?_gl=1*ni45gj*_up*mq..*_gs*mq..&gclid=cj0kcqjwhr6_bhd4arisah1ydjbkiyzqo18qmsl0rzmkaymed6e3m94qhh97w1_qksccpsy8pb_i34aaaidxealw_wcb" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/qS26gaNyEq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qS26gaNyEq" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Arpita+Garg.;Always+learning+something+new!;Building+Projects+with+Passion.&center=true&width=500&height=30&color=0E8AA8&vCenter=true&size=20" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitagarg30&show_icons=true&locale=en&layout=compact" alt="arpitagarg30" /></p>
+### 🔥 About Me
+
+- 🔭 I’m currently working on *BookStore Web App*
+- 🌱 Learning MERN Stack – React.js, Node.js, Express.js & MongoDB
+- 👯 Looking to collaborate on a *Women’s Safety App*
+- 💬 Ask me about anything related to *Web Dev, React, or Java*
+- 📫 Reach me at: *arpitagarg9459@gmail.com*
+- ✨ Fun fact: I enjoy debugging more than writing code sometimes 😄
+
+---
+
+### 🌐 Connect with Me
+ <p align="left">
+  <a href="https://www.linkedin.com/in/arpita-garg-035931263" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arpita%20Garg-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/arpita_garg/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-@arpita_garg-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/arpitagal1ga/" target="_blank">
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-Arpita%20Garg-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+  </a>
+  <a href="https://discord.gg/qS26gaNyEq" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-@Arpita%20Garg-5865F2?style=for-the-badge&logo=discord" />
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitagarg30&show_icons=true&theme=calm&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitagarg30&layout=compact&theme=calm&hide_border=true" width="48%"/>
+</div>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitagarg30&theme=flat&no-frame=true&row=1&column=6&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+### 🧩 My Projects — Built with 💜
+
+#### 🚨 She Safe (Oct 2024)
+> A real-time safety solution for women featuring *live location tracking, **emergency SOS alerts, and instant access to **help nearby*.  
+> Built to empower and protect. ❤
+
+#### 📚 Book Store (Jul – Aug 2024)
+> A full-stack web app where readers can explore, search, and buy their favorite books with ease.  
+> Built with *MongoDB, **Express, **React, and **Node*. Simple. Smooth. Reader-first.
+
+#### 🏠 PG Booking System (Apr – May 2024)
+> A seamless platform to *book PGs*, make payments, connect with owners, and manage listings/admins.  
+> Designed for ease. Built for scale.
+
+---
+
+### 🌟 Quote I Live By
+
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
+---
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=arpitagarg30&label=Profile%20views&color=0e75b6&style=flat" alt="arpita" />
+</p>
+
+---
+
+<p align="center"><strong>✨ Let's code the future together!</strong></p>
