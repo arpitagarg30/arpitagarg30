@@ -1,11 +1,15 @@
-<!-- README.md for Arpita Garg -->
-
 <h1 align="center">🌟 Hey there, I'm Arpita Garg! 👋</h1>
 <h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate about Building Impactful Projects</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Arpita+Garg.;Always+learning+something+new!;Building+Projects+with+Passion.&center=true&width=500&height=30&color=0E8AA8&vCenter=true&size=20" />
 </p>
+
+<!-- ✨ Unique Tech Image or GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+</p>
+
 
 ---
 
