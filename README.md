@@ -21,20 +21,31 @@
 ---
 
 ### 🌐 Connect with Me
- <p align="left">
+
+<p align="left">
   <a href="https://www.linkedin.com/in/arpita-garg-035931263" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arpita%20Garg-blue?style=for-the-badge&logo=linkedin" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/arpita_garg/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-@arpita_garg-orange?style=for-the-badge&logo=leetcode" />
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/arpitagal1ga/" target="_blank">
-    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-Arpita%20Garg-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
+    <img alt="GeeksforGeeks" src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
   <a href="https://discord.gg/qS26gaNyEq" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-@Arpita%20Garg-5865F2?style=for-the-badge&logo=discord" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/2deacd63-8ef6-4248-ae9f-206fd3c1988a" target="_blank">
+    <img alt="Code360" src="https://img.shields.io/badge/Code360-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://github.com/arpitagarg30" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:arpitagarg9459@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
