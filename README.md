@@ -1,31 +1,21 @@
-
-
 <!-- README.md for Arpita Garg -->
 
-<h1 align="center">🌟 Hey, I'm <span style="color:#F76C6C;">Arpita Garg</span> 💻</h1>
-<h3 align="center">🚀 MERN Stack Developer | Tech Enthusiast | Lifelong Learner 🌱</h3>
+<h1 align="center">🌟 Hey there, I'm Arpita Garg! 👋</h1>
+<h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate about Building Impactful Projects</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+beautiful+web+experiences...;Writing+clean+code+with+passion...;Debugging+like+a+Pro!;Empowering+Women+Through+Tech+💪;&center=true&width=600&height=45&color=E91E63&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Arpita+Garg.;Always+learning+something+new!;Building+Projects+with+Passion.&center=true&width=500&height=30&color=0E8AA8&vCenter=true&size=20" />
 </p>
 
-<!-- 👩‍💻 Unique Girl Coding Illustration -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpitagarg30/your-repo-name/main/A_welcoming_digital_illustration_introduces_Arpita.png" alt="Arpita Coding" width="480" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,0,0,0.1);" />
-</p>
-
-<p align="center">
-  <b><i>“Turning ideas into interactive reality through code ✨”</i></b>
-</p>
-
+---
 
 ### 🔥 About Me
 
-- 🔭 I’m currently working on *BookStore Web App*
+- 🔭 I’m currently working on BookStore Web App
 - 🌱 Learning MERN Stack – React.js, Node.js, Express.js & MongoDB
-- 👯 Looking to collaborate on a *Women’s Safety App*
-- 💬 Ask me about anything related to *Web Dev, React, or Java*
-- 📫 Reach me at: *arpitagarg9459@gmail.com*
+- 👯 Looking to collaborate on a Women’s Safety App
+- 💬 Ask me about anything related to Web Dev, React, or Java
+- 📫 Reach me at: arpitagarg9459@gmail.com
 - ✨ Fun fact: I enjoy debugging more than writing code sometimes 😄
 
 ---
@@ -102,15 +92,15 @@
 ### 🧩 My Projects — Built with 💜
 
 #### 🚨 She Safe (Oct 2024)
-> A real-time safety solution for women featuring *live location tracking, **emergency SOS alerts, and instant access to **help nearby*.  
+> A real-time safety solution for women featuring live location tracking, **emergency SOS alerts, and instant access to **help nearby.  
 > Built to empower and protect. ❤
 
 #### 📚 Book Store (Jul – Aug 2024)
 > A full-stack web app where readers can explore, search, and buy their favorite books with ease.  
-> Built with *MongoDB, **Express, **React, and **Node*. Simple. Smooth. Reader-first.
+> Built with MongoDB, **Express, **React, and **Node. Simple. Smooth. Reader-first.
 
 #### 🏠 PG Booking System (Apr – May 2024)
-> A seamless platform to *book PGs*, make payments, connect with owners, and manage listings/admins.  
+> A seamless platform to book PGs, make payments, connect with owners, and manage listings/admins.  
 > Designed for ease. Built for scale.
 
 ---
