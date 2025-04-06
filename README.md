@@ -1,17 +1,18 @@
-<h1 align="center">🌟 Hey there, I'm Arpita Garg! 👋</h1>
-<h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate about Building Impactful Projects</h3>
+<!-- README.md for Arpita Garg -->
+
+<h1 align="center">✨ Arpita Garg ✨</h1>
+<h3 align="center">💻 Empowering the Web, One Line of Code at a Time</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Arpita+Garg.;Always+learning+something+new!;Building+Projects+with+Passion.&center=true&width=500&height=30&color=0E8AA8&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+🌐;Code+with+Purpose+🚀;Creative+Thinker+💡;Problem+Solver+🛠️;Lifelong+Learner+📚;&center=true&width=500&height=30&color=F76C6C&vCenter=true&size=20" />
 </p>
 
-<!-- 👩‍💻 Unique Coder Girl Illustration -->
+<!-- 🌸 Unique Coder Girl Illustration -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arpitagarg30/your-repo-name/main/A_welcoming_digital_illustration_introduces_Arpita.png" alt="Arpita Coding" width="500" />
+  <img src="https://raw.githubusercontent.com/arpitagarg30/your-repo-name/main/A_welcoming_digital_illustration_introduces_Arpita.png" alt="Arpita Coding" width="500"/>
 </p>
 
-<!-- ✨ Optional: Add a techy quote or message -->
-<p align="center"><i>“Code like a girl 💻 — Dream it. Build it. Ship it.”</i></p>
+---
 
 
 
