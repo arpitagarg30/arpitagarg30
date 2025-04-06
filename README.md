@@ -5,10 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+I'm+Arpita+Garg.;Always+learning+something+new!;Building+Projects+with+Passion.&center=true&width=500&height=30&color=0E8AA8&vCenter=true&size=20" />
 </p>
 
-<!-- ✨ Unique Tech Image or GIF -->
+<!-- 👩‍💻 Unique Coder Girl Illustration -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+  <img src="https://raw.githubusercontent.com/arpitagarg30/your-repo-name/main/A_welcoming_digital_illustration_introduces_Arpita.png" alt="Arpita Coding" width="500" />
 </p>
+
+<!-- ✨ Optional: Add a techy quote or message -->
+<p align="center"><i>“Code like a girl 💻 — Dream it. Build it. Ship it.”</i></p>
+
 
 
 ---
