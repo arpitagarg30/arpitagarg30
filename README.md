@@ -1,22 +1,23 @@
+
+
 <!-- README.md for Arpita Garg -->
 
-<h1 align="center">✨ Arpita Garg ✨</h1>
-<h3 align="center">💻 Empowering the Web, One Line of Code at a Time</h3>
+<h1 align="center">🌟 Hey, I'm <span style="color:#F76C6C;">Arpita Garg</span> 💻</h1>
+<h3 align="center">🚀 MERN Stack Developer | Tech Enthusiast | Lifelong Learner 🌱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer+🌐;Code+with+Purpose+🚀;Creative+Thinker+💡;Problem+Solver+🛠️;Lifelong+Learner+📚;&center=true&width=500&height=30&color=F76C6C&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+beautiful+web+experiences...;Writing+clean+code+with+passion...;Debugging+like+a+Pro!;Empowering+Women+Through+Tech+💪;&center=true&width=600&height=45&color=E91E63&vCenter=true&size=20" />
 </p>
 
-<!-- 🌸 Unique Coder Girl Illustration -->
+<!-- 👩‍💻 Unique Girl Coding Illustration -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arpitagarg30/your-repo-name/main/A_welcoming_digital_illustration_introduces_Arpita.png" alt="Arpita Coding" width="500"/>
+  <img src="https://raw.githubusercontent.com/arpitagarg30/your-repo-name/main/A_welcoming_digital_illustration_introduces_Arpita.png" alt="Arpita Coding" width="480" style="border-radius: 15px; box-shadow: 0px 4px 20px rgba(0,0,0,0.1);" />
 </p>
 
----
+<p align="center">
+  <b><i>“Turning ideas into interactive reality through code ✨”</i></b>
+</p>
 
-
-
----
 
 ### 🔥 About Me
 
