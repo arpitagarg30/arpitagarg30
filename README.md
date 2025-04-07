@@ -1,6 +1,6 @@
 <!-- README.md for Arpita Garg -->
 
-<h1 align="center">🌟 Hey there, I'm Arpita Garg! 👋</h1>
+<h1 align="center">🌟 Hey, I'm Arpita Garg! 👋</h1>
 <h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate about Building Impactful Projects</h3>
 
 <p align="center">
